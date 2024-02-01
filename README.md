@@ -9,3 +9,7 @@ Aproveitando as férias da faculdade para apromirar o conhecimento e adquirir no
 Este repositório é referente ao término do projeto de desenvolvimento de um Audio-Book-Web-Player dom casmurro versão de domínio público.
 
 ►Algumas edições de aprimoramento foram realizadas.
+
+<a href="https://vcforjaz.github.io/Meus-Projetos/webplayer.html">Clique aqui para visualizar o projeto no navegador</a>
+
+![image](https://github.com/Vcforjaz/Meus-Projetos/blob/main/webplayer.PNG?raw=true)
